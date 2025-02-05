@@ -77,6 +77,12 @@ c. remote: Permission to hilalhamdh/tokoOnline.git denied to hilalcode.
   - Cara mengatasinya dengan memasukkan perintah
 
     git config credential.username "hilalhamdh"
+    
+### cara Edit File
+  - git fetch origin master
+  - git add .
+  - git commit -m "add new file"
+  - git push origin master --force
 
 
      
